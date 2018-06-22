@@ -29,7 +29,7 @@ Así que es el momento idóneo para empezar a usar esta especificación en nuest
 [Extra: Here we go!! Desarrollo de un grid para crear ¡Pixel art!](https://codepen.io/klaufel/pen/opOpXX)
 
 
-#### Referencias
+#### Referencias:
 
 * [La historia de CSS Grid a través de sus creadores.](http://alistapart.com/article/the-story-of-css-grid-from-its-creators)
 
