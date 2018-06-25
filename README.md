@@ -1,5 +1,5 @@
 # Introducción a CSS Grid layout
-### [Meetup Murcia Frontend (29/03/2017)](https://www.meetup.com/es-ES/Murcia-Frontend/events/246872555/)
+### [Meetup Murcia Frontend (25/01/2018)](https://www.meetup.com/es-ES/Murcia-Frontend/events/246872555/)
 
 > [Meetup](https://www.meetup.com/es-ES/Murcia-Frontend/) &nbsp;&middot;&nbsp;
 > [Slack](https://murciadev.slack.com/) &nbsp;&middot;&nbsp;
